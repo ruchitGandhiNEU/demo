@@ -6,7 +6,7 @@ Seer monorepo
 - Variables - Responsible for integrating with preprocessor, variables selection
 - Automodeler - Responsible for integration with automodeler and providing results
 - Notifications - Responsible for communicating results of long running tasks to UI application
-- UI - Seer UI application
+- UI - Seer UI applicatioknjzcxkhnlkxcfnn
 
 ### Pre-Requirement
 
@@ -21,7 +21,7 @@ Execute the following command to install dependencies:
 $ lerna bootstrap
 ```
 
-Put `.env` files into root of respective services (ask your collegues about those files)
+Put `.env` files intsdasdasdjo root of respective services (ask your collegues about those files)
 
 Execute the following command to run watch-and-build:
 ```sh
